@@ -16,6 +16,7 @@ body {
   padding: 0;
 }
 main {
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,8 +27,7 @@ main {
   color: white;
   display: flex;
   align-items: center;
-  position: absolute;
-  top: 25%;
+
   border-radius: 12px;
   background-color: var(--Dark-desaturated-blue);
 }
